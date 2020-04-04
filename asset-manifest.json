@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/testing-toggle/static/css/main.2905a3a3.chunk.css",
+    "main.js": "/testing-toggle/static/js/main.9574fe45.chunk.js",
+    "main.js.map": "/testing-toggle/static/js/main.9574fe45.chunk.js.map",
+    "runtime-main.js": "/testing-toggle/static/js/runtime-main.35b87cbb.js",
+    "runtime-main.js.map": "/testing-toggle/static/js/runtime-main.35b87cbb.js.map",
+    "static/js/2.f4acfc29.chunk.js": "/testing-toggle/static/js/2.f4acfc29.chunk.js",
+    "static/js/2.f4acfc29.chunk.js.map": "/testing-toggle/static/js/2.f4acfc29.chunk.js.map",
+    "index.html": "/testing-toggle/index.html",
+    "precache-manifest.48c5f24ca5c8e417919c90b1ef0ddc84.js": "/testing-toggle/precache-manifest.48c5f24ca5c8e417919c90b1ef0ddc84.js",
+    "service-worker.js": "/testing-toggle/service-worker.js",
+    "static/css/main.2905a3a3.chunk.css.map": "/testing-toggle/static/css/main.2905a3a3.chunk.css.map",
+    "static/js/2.f4acfc29.chunk.js.LICENSE.txt": "/testing-toggle/static/js/2.f4acfc29.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/testing-toggle/static/media/sun.bbab351f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35b87cbb.js",
+    "static/js/2.f4acfc29.chunk.js",
+    "static/css/main.2905a3a3.chunk.css",
+    "static/js/main.9574fe45.chunk.js"
+  ]
+}
